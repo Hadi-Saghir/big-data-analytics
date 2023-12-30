@@ -4,12 +4,12 @@ version: "3.8"
 services:
   clone-detector:
     image: cljdetector
-    command: clear 
+    command: clear
     ports:
-      - 8080:3000
+    - 8080:3000
     volumes:
-      - ./Containers/cljdetector:/usr/src/app
-      - qc-volume:/QualitasCorpus
+    - ./Containers/cljdetector:/usr/src/app
+    - qc-volume:/QualitasCorpus
     environment:
       DBHOST: dbstorage
       SOURCEDIRtest: "/usr/src/app/test/data"
@@ -22,16 +22,26 @@ services:
     restart: always
     command: --quiet --syslog
     ports:
-      - 27017:27017
+    - 27017:27017
     expose:
-      - "27017"
+    - "27017"
     volumes:
-      - dbstorage:/data/db
-      - dbconfig:/data/configdb
-    
+    - dbstorage:/data/db
+    - dbconfig:/data/configdb
+
+    monitortool:
+      build: monitor
+      restart: always
+      depends_on:
+      - dbstorage
+      environment:
+        MONGO_URI: "mongodb://dbstorage:27017"
+        DB_NAME: "cloneDetector"
+        INTERVAL: 60
+
 volumes:
   dbstorage:
   dbconfig:
   qc-volume:
     external: true
-    
+
