@@ -8,6 +8,7 @@
 (def source-dir (or (System/getenv "SOURCEDIR") "/tmp"))
 (def source-type #".*\.java")
 
+;; I add a timestamp and message that called storage/addUpdate!
 (defn ts-println [& args]
   (let [timestamp (.toString (java.time.LocalDateTime/now))
         message (apply str args)]

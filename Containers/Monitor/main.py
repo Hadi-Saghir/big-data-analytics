@@ -26,9 +26,10 @@ def main():
         for status in latest_status:
             print(f"Latest Status Update: {status['message']} at {status['timestamp']}")
 
-        print("\n--- Done. Next fetch in " INTERVAL " s ---\n")
+        print("\n--- Done ---\n")
 
         time.sleep(INTERVAL)
 
 if __name__ == "__main__":
+    print("Starting...")
     main()

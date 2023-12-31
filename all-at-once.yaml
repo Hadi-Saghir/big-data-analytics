@@ -29,15 +29,15 @@ services:
     - dbstorage:/data/db
     - dbconfig:/data/configdb
 
-    monitortool:
-      build: monitor
-      restart: always
-      depends_on:
-      - dbstorage
-      environment:
-        MONGO_URI: "mongodb://dbstorage:27017"
-        DB_NAME: "cloneDetector"
-        INTERVAL: 60
+  monitortool:
+    image: monitor
+    restart: always
+    depends_on:
+    - dbstorage
+    environment:
+      MONGO_URI: "mongodb://dbstorage:27017"
+      DB_NAME: "cloneDetector"
+      INTERVAL: 60
 
 volumes:
   dbstorage:
