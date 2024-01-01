@@ -37,7 +37,7 @@ services:
     environment:
       MONGO_URI: "mongodb://dbstorage:27017"
       DB_NAME: "cloneDetector"
-      INTERVAL: 60
+      INTERVAL: 2
 
 volumes:
   dbstorage:

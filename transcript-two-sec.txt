@@ -1,0 +1,1641 @@
+Apparently, Command Prompt limits the amount of text saved, so it has cut off anything before this.
+However, I did follow it and used insight from it in my analysis report.
+
+
+
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 184065, Clones: 5388
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 183242, Clones: 5407
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 182604, Clones: 5433
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 181880, Clones: 5456
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 181241, Clones: 5481
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 180444, Clones: 5504
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 179776, Clones: 5529
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 179121, Clones: 5554
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 178604, Clones: 5581
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 177975, Clones: 5608
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 177296, Clones: 5633
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 176675, Clones: 5658
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 175854, Clones: 5681
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 175193, Clones: 5707
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 174483, Clones: 5732
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 173939, Clones: 5759
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 173222, Clones: 5785
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 172711, Clones: 5811
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 172034, Clones: 5837
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 171285, Clones: 5859
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 170925, Clones: 5888
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 170299, Clones: 5914
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 169601, Clones: 5938
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 168984, Clones: 5964
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 168424, Clones: 5990
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 167878, Clones: 6019
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 167162, Clones: 6043
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 166433, Clones: 6070
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 165731, Clones: 6096
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 165064, Clones: 6122
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 164339, Clones: 6148
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 163627, Clones: 6176
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 163093, Clones: 6205
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 162451, Clones: 6232
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 161755, Clones: 6260
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 160993, Clones: 6285
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 160315, Clones: 6312
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 159741, Clones: 6342
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 159144, Clones: 6370
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 158460, Clones: 6399
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 157737, Clones: 6427
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 156990, Clones: 6454
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 156395, Clones: 6480
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 155685, Clones: 6508
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 155055, Clones: 6538
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 154406, Clones: 6567
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 153798, Clones: 6596
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 153315, Clones: 6627
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 152696, Clones: 6657
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 151982, Clones: 6684
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 151219, Clones: 6713
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 150575, Clones: 6745
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 149882, Clones: 6776
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 149410, Clones: 6806
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 148680, Clones: 6833
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 148060, Clones: 6865
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 147640, Clones: 6896
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 147024, Clones: 6928
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 146406, Clones: 6960
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 145757, Clones: 6990
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 145183, Clones: 7021
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 144585, Clones: 7051
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 143975, Clones: 7083
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 143398, Clones: 7116
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 142778, Clones: 7149
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 142204, Clones: 7181
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 141617, Clones: 7215
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 140893, Clones: 7245
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 140217, Clones: 7281
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 139564, Clones: 7314
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 138908, Clones: 7345
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 138331, Clones: 7378
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 137646, Clones: 7410
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 136782, Clones: 7441
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 136170, Clones: 7476
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 135447, Clones: 7509
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 134969, Clones: 7545
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 134186, Clones: 7578
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 133494, Clones: 7610
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 132850, Clones: 7644
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 132233, Clones: 7680
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 131636, Clones: 7713
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 131034, Clones: 7746
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 130398, Clones: 7779
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 129700, Clones: 7813
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 128968, Clones: 7848
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 128449, Clones: 7882
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 127886, Clones: 7917
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 127228, Clones: 7949
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 126314, Clones: 7983
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 125623, Clones: 8017
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 124865, Clones: 8053
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 124185, Clones: 8088
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 123521, Clones: 8124
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 122738, Clones: 8161
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 122003, Clones: 8198
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 121327, Clones: 8238
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 120806, Clones: 8275
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 120241, Clones: 8315
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 119438, Clones: 8352
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 118832, Clones: 8388
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 118291, Clones: 8427
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 117611, Clones: 8462
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 117112, Clones: 8498
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 116390, Clones: 8535
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 115834, Clones: 8574
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 115210, Clones: 8614
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 114520, Clones: 8654
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 113900, Clones: 8692
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 113366, Clones: 8730
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 112741, Clones: 8771
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 112176, Clones: 8809
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 111591, Clones: 8848
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 110893, Clones: 8885
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 110218, Clones: 8927
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 109603, Clones: 8968
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 108987, Clones: 9009
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 108295, Clones: 9046
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 107604, Clones: 9088
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 106924, Clones: 9130
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 106239, Clones: 9173
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 105571, Clones: 9215
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 104916, Clones: 9258
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 104325, Clones: 9302
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 103708, Clones: 9342
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 103127, Clones: 9383
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 102509, Clones: 9424
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 101882, Clones: 9467
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 101125, Clones: 9508
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 100425, Clones: 9552
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 99776, Clones: 9598
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 99101, Clones: 9643
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 98507, Clones: 9686
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 97868, Clones: 9733
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 97069, Clones: 9777
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 96247, Clones: 9823
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 95555, Clones: 9866
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 94878, Clones: 9914
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 94236, Clones: 9963
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 93643, Clones: 10008
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 93072, Clones: 10055
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 92449, Clones: 10102
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 91867, Clones: 10151
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 91086, Clones: 10196
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 90387, Clones: 10245
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 89831, Clones: 10294
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 89313, Clones: 10343
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 88767, Clones: 10390
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 88117, Clones: 10438
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 87554, Clones: 10488
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 86780, Clones: 10536
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 86114, Clones: 10586
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 85386, Clones: 10636
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 84741, Clones: 10685
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 84084, Clones: 10734
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 83259, Clones: 10781
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 82505, Clones: 10828
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 81894, Clones: 10879
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 81197, Clones: 10926
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 80588, Clones: 10977
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 79859, Clones: 11028
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 79249, Clones: 11080
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 78669, Clones: 11135
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 77937, Clones: 11185
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 77290, Clones: 11239
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 76652, Clones: 11291
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 76071, Clones: 11342
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 75427, Clones: 11395
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 74903, Clones: 11445
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 74379, Clones: 11499
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 73660, Clones: 11551
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 73053, Clones: 11606
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 72419, Clones: 11664
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 71726, Clones: 11723
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 71117, Clones: 11778
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 70399, Clones: 11835
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 69714, Clones: 11892
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 69073, Clones: 11950
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 68448, Clones: 12007
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 67799, Clones: 12070
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 67140, Clones: 12130
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 66374, Clones: 12188
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 65766, Clones: 12246
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 65096, Clones: 12306
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 64429, Clones: 12369
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 63775, Clones: 12433
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 63012, Clones: 12496
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 62431, Clones: 12559
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 61775, Clones: 12621
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 61101, Clones: 12686
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 60393, Clones: 12751
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 59542, Clones: 12815
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 58817, Clones: 12879
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 58284, Clones: 12946
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 57572, Clones: 13013
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 56892, Clones: 13084
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 56245, Clones: 13150
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 55594, Clones: 13222
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 54935, Clones: 13290
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 54164, Clones: 13357
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 53496, Clones: 13429
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 52878, Clones: 13500
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 52219, Clones: 13573
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 51552, Clones: 13644
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 50899, Clones: 13718
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 50281, Clones: 13787
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 49585, Clones: 13863
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 48839, Clones: 13935
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 48206, Clones: 14010
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 47606, Clones: 14084
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 46896, Clones: 14159
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 46138, Clones: 14238
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 45424, Clones: 14312
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 44708, Clones: 14392
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 43947, Clones: 14472
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 43357, Clones: 14554
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 42713, Clones: 14638
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 42046, Clones: 14721
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 41346, Clones: 14806
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 40793, Clones: 14886
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 40115, Clones: 14967
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 39511, Clones: 15053
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 38952, Clones: 15134
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 38260, Clones: 15218
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 37543, Clones: 15307
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 36883, Clones: 15394
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 36224, Clones: 15490
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 35483, Clones: 15580
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 34936, Clones: 15673
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 34274, Clones: 15765
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 33601, Clones: 15865
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 32938, Clones: 15967
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 32194, Clones: 16065
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 31511, Clones: 16164
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 30760, Clones: 16270
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 29999, Clones: 16377
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 29266, Clones: 16480
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 28543, Clones: 16591
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 27823, Clones: 16698
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 27104, Clones: 16804
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 26334, Clones: 16915
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 25653, Clones: 17035
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 24961, Clones: 17156
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 24247, Clones: 17276
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 23579, Clones: 17396
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 22868, Clones: 17526
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 22165, Clones: 17664
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 21418, Clones: 17795
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 20689, Clones: 17930
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 19985, Clones: 18063
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 19232, Clones: 18208
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 18440, Clones: 18355
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 17735, Clones: 18500
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 17069, Clones: 18657
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 16285, Clones: 18819
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 15540, Clones: 18991
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 14692, Clones: 19170
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 13937, Clones: 19351
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 13056, Clones: 19542
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 12285, Clones: 19742
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 11472, Clones: 19939
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 10623, Clones: 20157
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 9769, Clones: 20370
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 9013, Clones: 20611
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 8194, Clones: 20868
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 7334, Clones: 21154
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 6394, Clones: 21475
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 5419, Clones: 21838
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 4381, Clones: 22249
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 3264, Clones: 22771
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 2035, Clones: 23464
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | Fetching new data...
+big-data-analytics-monitortool-1     | Files: 125200, Chunks: 18211863, Candidates: 159, Clones: 24810
+big-data-analytics-monitortool-1     | Latest Status Update: Expanding Candidates... at 2024-01-01T12:19:02.546810
+big-data-analytics-monitortool-1     |
+big-data-analytics-monitortool-1     | --- Done ---
+big-data-analytics-monitortool-1     |
+big-data-analytics-clone-detector-1  | 2024-01-01T13:29:05.340172292 Summary
+big-data-analytics-clone-detector-1  | db contains 125200 files
+big-data-analytics-clone-detector-1  | db contains 18211863 chunks
+big-data-analytics-clone-detector-1  | db contains 0 candidates
+big-data-analytics-clone-detector-1  | db contains 24961 clones
